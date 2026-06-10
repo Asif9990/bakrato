@@ -6,7 +6,7 @@ function App() {
   return (
     <SafeAreaProvider>
       <SafeAreaView style={styles.container}>
-        <Text style={styles.text}>Hello Bakarato!</Text>
+        <Text style={styles.text}>Hello Bakarato</Text>
       </SafeAreaView>
     </SafeAreaProvider>
   );
